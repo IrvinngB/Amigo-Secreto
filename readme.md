@@ -13,6 +13,3 @@
 - **HTML**: Estructura de la página.
 - **CSS**: Estilos y diseño.
 - **JavaScript**: Lógica del sorteo.
-# Amigo-Secreto
-# Amigo-Secreto
-# Amigo-Secreto
